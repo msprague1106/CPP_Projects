@@ -7,7 +7,7 @@
  **********************/
 
 #include<iostream>
-using namespace std;
+using namespace std; //for cout and cin
 
 int main()
 {
