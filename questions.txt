@@ -1,0 +1,128 @@
+In which situation would an ESD strike potentially cause harm to the PC?|Replacing a mechanical HDD with an M.2 SSD|Installing a display|Grounded mat use|Dual-voltage PSU|0|Internal components like M.2 SSDs are highly sensitive to ESD.
+A person has started a new technical job. In which situation would ESD be an issue?|Installing a processor|Using a grounded mat|Installing a dual-voltage PSU|Exchanging a laptop AC adapter|0|Processors (CPUs) are extremely sensitive to electrostatic discharge.
+A technician is about to begin preventive maintenance on a company PC. In which situation would ESD be an issue?|Walking on carpet then touching a keyboard|Installing a UPS|Attaching speakers|Installing a processor|0|Static builds up on carpet and can discharge when you touch the PC.
+In which situation should the student be aware that ESD is an issue?|Installing RAM|Working on carpeted floors|Using a grounded mat|Installing a PSU|0|RAM modules are sensitive electronic components that can be fried by ESD.
+What two motherboard components control the system boot operations?|BIOS chip|UEFI chip|Northbridge chip|Southbridge chip|0|System boot services are provided by BIOS and UEFI chips.
+Which component might be affected by an ATX motherboard upgrade and need additional purchase?|BIOS|Chipset|CMOS battery|CPU|3|The CPU must be compatible with the specific socket and chipset of the new motherboard.
+A customer requested a PC build that supports eSATA. Which component should be checked?|CPU|Chipset|Hard disk|RAM module|1|The chipset on a motherboard provides the capability for eSATA and USB ports.
+Which memory module holds boot instructions and loading the OS?|RAM|ROM|Cache|Main memory|1|ROM stands for Read-Only Memory and holds permanent boot instructions.
+What is a characteristic of DDR SDRAM?|Transfers data twice per clock cycle|Double the pins of SDRAM|Static memory|Double the voltage of SDRAM|0|DDR (Double Data Rate) transfers data twice per clock cycle.
+What are two safety hazards when dealing with laser printers?|High voltage|Hot components|Heavy metals|Proprietary power bricks|0,1|Laser printers require high voltage and the fuser gets very hot.
+Which component requires a technician to install screws externally through the PC case?|RAM|CPU|Motherboard|Power supply|3|The power supply is secured by four screws through the back of the case.
+To which motherboard connector will the technician connect an internal HDD data cable?|ATX|PCI|PWR_SW|SATA|3|SATA is the standard interface for modern internal hard drives.
+A technician has been asked to install a video card. Which section of the motherboard is used?|Section A (CPU)|Section B (RAM)|Section C (PCIe x16)|Section D (Ports)|2|Video cards use the high-speed PCIe x16 expansion slot.
+When a PC is being assembled, what component is connected with a SATA cable?|Optical drive|NIC|Video card|Power supply|0|SATA cables carry data from optical and storage drives.
+A hardware failure is detected by the BIOS. What is one way this failure is indicated?|Safe Mode boot|Red screen|Pattern of beeps|I/O error message|2|Beep codes are used when the system cannot yet display video.
+Which three features can be configured in BIOS settings to secure a computer?|MAC filtering|TPM|Drive encryption|Passwords|1,2,3|Passwords, drive encryption, and TPM are BIOS-configurable security features.
+What is the purpose of RAID adapters?|Older PCI use|Enhanced audio|Connect multiple drives for redundancy/speed|Connect peripherals|2|RAID stands for Redundant Array of Independent Disks.
+When a new motherboard is being installed, between which two components must thermal compound be applied?|CPU|Heat sink|RAM|Chassis|0,1|Thermal paste helps conduct heat from the CPU to the heat sink.
+What is the purpose of a Safety Data Sheet?|Hazardous materials procedures|Designing PC systems|ESD prevention|Humidity control|0|SDS explain how to handle and dispose of chemicals safely.
+Which negative environmental factor does cleaning the inside of a computer reduce?|Dust|EMI|Rust|ESD|0|Dust buildup acts as an insulator and causes overheating.
+What is a recommended procedure to follow when cleaning computer components?|Remove CPU first|Spin fans fast|Window cleaner on LCD|Hold can upright|3|Keep the can upright to prevent liquid propellant from leaking.
+In a furniture plant, which condition is most likely to adversely affect a laptop?|Temperature|Humidity|Air flow|Dust|3|Dust can cause overheating and failures in electronics.
+If testing a theory did not identify an exact cause, what two actions should the technician take?|Establish new theory|Document failed tests|Replace parts randomly|Verify functionality|0,1|Establish a new theory of probable causes and document each test tried.
+What happens if a 230V PSU is attached to a 120V outlet in the United States?|Explosion|PC won't turn on|Error code|Beep codes|1|In the US, wall outlet electrical power is standardized at 120 volts AC.
+Which type of network spans a single building or campus?|PAN|WAN|LAN|MAN|2|A Local Area Network (LAN) spans a single building or campus.
+What are two types of wired high-speed Internet connections?|Cable|DSL|Satellite|Cellular|0,1|Cable and DSL are wired high-speed technologies.
+In what two situations would UDP be better than TCP?|Faster delivery needed|Guarantee delivery|No guarantee needed|Overhead is no issue|0|UDP is used for speedy, best-effort delivery without a guarantee.
+Which service would simplify the workstation IP configuration task?|APIPA|DHCP|DNS|ICMP|1|DHCP automatically assigns host IP addresses.
+A company needs a next-gen firewall with VPN, IDS/IPS, and DoS protection. Best device?|Multipurpose device|Router|Endpoint server|UTM|3|A UTM device provides firewall, IDS/IPS, and proxy functionality.
+A computer has been assigned IP 169.254.100.88. What could cause this?|Static IP error|Interference|Low power|Unreachable DHCP server|3|Windows assigns APIPA (169.254.x.x) when DHCP is unreachable.
+Which three values must be added to IPv4 properties for basic connectivity?|IP address|Subnet mask|Default gateway|DHCP address|0,1,2|Basic connectivity requires IP, subnet mask, and default gateway.
+IPv6 2001:0DB8:75a3:0214:0607:1234:aa10:ba01 /64. Host identifier?|2001:0DB8:75a3|0607:1234:aa10:ba01|2001:0DB8|ba01|1|The last 64 bits (four hextets) represent the host identifier.
+How can a user prevent specific applications from accessing a Windows computer over a network?|MAC filtering|Disable DHCP|Block ports in Firewall|Change passwords|2|Applications use specific ports that can be blocked in Windows Firewall.
+When would Wi-Fi calling be most advantageous?|Emergency with no minutes|WEA updates|Poor cellular coverage|Store payment|2|Wi-Fi calling uses a Wi-Fi network to make voice calls in poor cell areas.
+Which statement is true about laptops?|Proprietary components|Standard form factors|Fewer components|No cooling devices|0|Laptop internal components are designed for small form factors and are proprietary.
+Which standard provides a bridge between laptop hardware and OS for power management?|ACPI|PCIe|Bluetooth|802.11|0|ACPI allows the OS to configure power management schemes.
+Which two laptop components are considered replaceable by the customer (CRU)?|Battery|RAM|Display|Motherboard|0,1|RAM and batteries are common CRUs.
+Connections used to synchronize movies and ebooks between mobile devices?|Cellular|Wi-Fi|USB|Bluetooth|1|Large data syncs occur over Wi-Fi or wired USB.
+How do you resolve slow color laser printing for high-res graphics?|Rewind ribbon|Add more RAM|Wireless connection|USB hub|1|Printer memory must be adequate to store the entire print job.
+Test pages jam in a new printer in a cool, damp mine. Most likely cause?|Wrong driver|Too much humidity|Low memory|Loose cables|1|Dampness/humidity is a common cause of paper jams.
+What virtualization benefit helps disaster recovery?|Power provided|Less energy|Faster provisioning|Hardware independence|3|Virtualization means the recovery site doesn't need identical hardware.
+Which two hypervisors support data center virtual machines?|VMware ESX/ESXi|Hyper-V 2012|VirtualBox|VMware Fusion|0,1|Type 1 hypervisors like ESXi and Hyper-V are used in data centers.
+Designer opens apps in different virtual desktops in Windows 10. Technology?|Virtual reality|Windows Virtual Desktop|Cloud apps|VDI|1|Windows 10 allows users to create multiple virtual desktops.
+Cloud service for collaboratively creating applications?|PaaS|IaaS|SaaS|ITaaS|0|Platform as a Service (PaaS) provides a collaborative dev environment.
+Which statement describes a feature of SDRAM?|Constant power|240 pins|Overlapping instructions|Two writes/reads per clock|2|SDRAM can process overlapping instructions in parallel.
+RAID with mirroring and striping?|RAID 10|RAID 5|RAID 1|RAID 0|0|RAID 10 is a nested RAID level (1+0).
+RAID using mirroring?|RAID 1|RAID 6|RAID 5|RAID 3|0|RAID 1 provides redundancy through disk mirroring.
+RAID using striping with parity?|RAID 5|RAID 6|RAID 1|RAID 0|0|RAID 5 requires at least three drives and uses parity.
+RAID using striping only?|RAID 0|RAID 6|RAID 5|RAID 2|0|RAID 0 provides performance via striping but no redundancy.
+RAID using striping with double parity?|RAID 6|RAID 1|RAID 5|RAID 7|0|RAID 6 allows for the failure of two drives.
+How to dispose of an old battery/monitor/motherboard?|Burn it|Recycle (Local Regs)|Dumpster|Bury it|1|Always follow local regulations for recycling electronic waste.
+Computer reboots randomly. Suspect hardware?|Power supply|CPU|ROM|Wireless NIC|0|Power supplies and overheating CPUs are common causes for sudden reboots.
+Port number 137?|SMB/CIFS|HTTPS|NetBIOS (NetBT)|SLP|2|NetBIOS Name Service uses port 137.
+Port number 22?|SSH|SMB/CIFS|HTTPS|SLP|0|SSH uses port 22 for secure remote access.
+Port number 143?|IMAP|SMB/CIFS|HTTPS|SLP|0|IMAP uses port 143 for retrieving email.
+Port number 23?|SMB/CIFS|Telnet|HTTPS|SLP|1|Telnet uses port 23 for insecure remote access.
+Port number 161?|SMB/CIFS|HTTPS|SLP|SNMP|3|SNMP uses port 161 for network management.
+Port number 389?|LDAP|SMB/CIFS|HTTPS|SLP|0|LDAP uses port 389 for directory services.
+Port number 25?|SMB/CIFS|HTTPS|SMTP|SLP|2|SMTP uses port 25 for outgoing email.
+Port number 427?|SMB/CIFS|SMTP|DNS|SLP|3|Service Location Protocol (SLP) uses port 427.
+Port number 53?|DNS|SMTP|DHCP|TFTP|0|DNS uses port 53 for name resolution.
+Compressed IPv6 2001:0db8:0000:0000:0000:a0b0:0008:0001?|2001:db8::a0b0:8:1|2001:db80::1|2001:db8::|2001:db80:::1|0|Double colons represent a single contiguous string of zero hextets.
+ACPI: CPU/RAM off, RAM saved to file on hard drive?|S1|S2|S3|S4|3|S4 is the hibernation state.
+ACPI: CPU/RAM powered, unused devices down?|S1|S2|S3|S4|0|S1 is the light sleep state.
+ACPI: CPU off, RAM refreshed?|S1|S2|S3|S4|2|S3 is the standby/suspend-to-RAM state.
+ACPI: Computer is off?|S1|S2|S3|S5|3|S5 is the soft-off state.
+ACPI: Computer is on, CPU running?|S0|S4|S3|S5|0|S0 is the fully working state.
+Vertical lines and streaks on paper?|Clean printer|Connect wireless|Install hub|Update BIOS|0|Clean the printer or replace the toner cartridge to fix streaks.
+Shared printer not showing on list?|Reset counter|Connect wireless|Install hub|Add IP manually|3|Manually adding the IP address can fix visibility issues.
+Impact printer produces faded characters?|Ribbon worn|Queue full|Wrong port|Tray flimsy|0|Faded impact printing is usually a worn or damaged ribbon.
+GPS not functioning on laptop?|GPU overheating|Resolution error|Service disabled|Refresh rate low|2|Check if the GPS/Location service or Airplane mode is active.
+App not responding on laptop?|Restart app|Battery low|GPU overheating|Wi-Fi off|0|Restarting an app is the first step when it hangs.
+Decryption error message when opening email?|Display setting|GPU overheating|Certificate missing|Wi-Fi off|2|Email encryption/decryption requires a valid digital certificate.
+Windows protocol for file and printer sharing?|SMB|SMTP|HTTPS|IMAP|0|Server Message Block (SMB) is the Windows standard for file sharing.
+Laptop LCD with tilting crystals for high contrast?|VA|IPS|TN|OLED|0|Vertical alignment (VA) uses tilting crystals for high contrast.
+Purpose of Server Message Block (SMB)?|Browsing|Desktop mgmt|File sharing|Email|2|SMB is used for sharing files, printers, and resources.
+A reporter is trying to print several high resolution photographs but the color laser printer is going extremely slowly. What should the technician do?|Rewind the ribbon|Add more RAM to the printer|Connect using wireless|Update the BIOS|1|Graphics-heavy print jobs require more printer memory (RAM) to process efficiently.
+A new printer has just been installed deep in a mine. When test pages are printed, the paper constantly jams. What should the technician do?|Clean the printer|Connect using wireless|Install a USB hub|Move the printer to a less-humid location|3|High humidity causes paper to absorb moisture, leading to frequent jams.
+A user complains that recently every printed document has vertical lines and streaks on the paper. What should the technician do?|Clean the printer|Connect using wireless|Install a USB hub|Update the BIOS|0|Streaks are usually caused by a dirty primary corona wire or a drum issue.
+A school is installing a new shared printer but the printer is not showing up on the list. What should the technician do?|Reset the page counter|Connect using wireless|Install a USB hub|Manually add the printer IP address|3|Network discovery sometimes fails; manually entering the IP bypasses this.
+Employees are complaining that they send print jobs to a newly installed printer but they never print. Fix?|Check vibration of crystals|Connect using wireless|Update the BIOS|Modify the printer port|3|If the port is set to the wrong IP or connection type, jobs won't reach the printer.
+Users notice that printed colors are different from their screens. What should the technician do?|Calibrate the printer|Install a USB hub|Reset page counter|Check vibration of crystals|0|Calibration aligns the toner/ink colors to ensure they match digital profiles.
+A technician completed preventive maintenance and now the printer is unavailable. First check?|Plugged into power|Connect using wireless|Reset counter|Install a USB hub|0|Always check the simplest physical connections first after moving or servicing a device.
+Employees of a small business complain of faded images. What should the technician do?|Update BIOS|Replace toner cartridge|Reset counter|Install a USB hub|1|Faded text or images in a laser printer almost always indicate low toner.
+A photographer gets a "Document failed to print" message. Two possible causes?|Printer no longer shared|Paper tray flimsy|Radiation issue|Cable loose or disconnected|3|Physical disconnection or loss of network sharing will stop all print jobs.
+A reporter says the printer is printing unknown characters. Two possible causes?|Wrong/outdated driver|Loose connection|Radiation issue|Wrong port|0|Incorrect drivers translate data into "gibberish" characters.
+A manager says the printer is printing incorrect colors. Two possible causes?|Print heads need cleaning|Wrong cable|Incorrect cartridge|Wrong port|0|Dirty print heads or mixing up color cartridges will cause color shifts.
+A technician is working on a laptop and the GPS is not functioning. Probable cause?|GPU overheating|Resolution error|Airplane mode is on|Refresh rate low|2|Airplane mode disables all radio communications, including GPS.
+A technician is working on a laptop and an app is not loading. Probable cause?|Too many apps|Resolution error|Refresh rate low|App needs to be restarted|3|Restarting the app clears stuck processes in memory.
+Software engineer needs to test an app on Windows 10 and 11 simultaneously. Two technologies?|Dual boot|Two CPUs|Storage redundancy|Client-side virtualization|3|Virtualization allows running multiple OS environments at the same time.
+Which laptop LCD technology uses tilting crystals for high contrast?|Vertical alignment (VA)|In-Plane switching (IPS)|Twisted Nematic (TN)|OLED|0|VA panels are known for superior contrast due to the crystal alignment.
+A technician is about to begin preventive maintenance. ESD issue Case 2?|Replacing a motherboard|Attaching speakers|Grounded mat on ungrounded bench|Dual-voltage PSU|0|Replacing a motherboard involves handling the most sensitive traces on the PC.
+A technician is about to begin preventive maintenance. ESD issue Case 3?|Installing RAM|Walking on carpet|Grounded mat on ungrounded bench|Dual-voltage PSU|0|RAM modules are easily damaged by small static discharges.
+Instructor gives assignment to assemble a PC. ESD awareness Case 4?|Installing RAM|Working in carpeted office|Grounded mat on ungrounded bench|Dual-voltage PSU|0|RAM installation is a high-risk activity for ESD damage.
+Which memory module is used on adapters even though contents cannot be changed?|RAM|ROM|Cache|Main memory|1|ROM is used for firmware on adapters like video cards or RAID controllers.
+Motherboard, CPU, and power supply compatibility must be checked when?|Upgrading ATX motherboard|Installing a UPS|Replacing a CMOS battery|Installing a PCIe adapter|0|These three core components must share compatible sockets and wattage.
+A technician is installing an internal HDD. Which cable carries the data?|ATX|PCI|SATA|PWR_SW|2|SATA cables are the standard for internal data transfer to drives.
+What component is connected to the motherboard with a SATA cable?|Optical drive|NIC|Video card|Power supply|0|Both HDDs and Optical (CD/DVD) drives use SATA data cables.
+Which three features secure a computer in BIOS?|Passwords|Drive encryption|TPM|MAC filtering|0,1,2|Passwords, Encryption, and TPM are the "Big Three" for hardware security.
+Thermal compound conduct heat to which component?|Heat sink|RAM|Chassis|Motherboard|0|The heat sink draws heat away from the CPU via the thermal paste.
+What specifies procedures for dealing with hazardous materials?|SDS|BIOS|UEFI|ACPI|0|The Safety Data Sheet (SDS) is the legal requirement for chemical safety.
+What negative factor does cleaning the PC reduce?|Dust|EMI|Rust|ESD|0|Dust is the #1 cause of thermal throttling and hardware failure.
+Furniture plant laptop environment. Biggest threat?|Dust|Temperature|Humidity|Air flow|0|Wood dust is conductive and highly abrasive to laptop fans.
+If a theory is not identified, what is the next step?|New theory and Document|Replace parts|Verify functionality|Test complex causes|0|Troubleshooting is an iterative process; always document and reset.
+120V US outlet + 230V Manual PSU. Result?|PC won't turn on|Explosion|Error code|Beep codes|0|The PSU will not have enough "pressure" to start the system.
+UDP vs TCP: Faster delivery mechanism?|UDP|TCP|IP|HTTP|0|UDP has less overhead and is much faster for streaming/gaming.
+Simplifies workstation IP configuration?|DHCP|APIPA|DNS|ICMP|0|DHCP automates the process of handing out IP addresses.
+Next-gen firewall with VPN/IDS/IPS?|UTM|Router|Switch|Hub|0|Unified Threat Management (UTM) combines multiple security tools.
+IP 169.254.100.88 means what?|Unreachable DHCP server|Static IP error|Interference|Low power|0|This is an APIPA address assigned when DHCP fails.
+IPv4 basic connectivity: 3 values?|IP, Subnet, Gateway|IP, DNS, MAC|IP, DHCP, DNS|IP, Mask, Speed|0|Without these three, the PC cannot communicate outside its local segment.
+Which is the compressed format of the IPv6 address 2001:0db8:0000:0000:0000:a0b0:0008:0001?|2001:db8::a0b0:8:1|2001:db80:0:1::80:1|2001:db8::ab8:1:0:1000|2001:db80:::1::80:1|0|Double colons (::) replace the longest string of consecutive zeros.
+Which is the compressed format of the IPv6 address fe80:09ea:0000:2200:0000:0000:0fe0:0290?|fe80:9ea:0:2200::fe0:290|fe80:9:20::b000:290|fe80:9ea0::2020:0:bf:e0:9290|fe80:9ea0::2020::bf:e0:9290|0|Leading zeros are removed, and the largest group of zeros is compressed.
+Which is the compressed format of the IPv6 address 2002:0042:0010:c400:0000:0000:0000:0909?|2002:42:10:c400::909|200:420:110:c4b::910:0:90|2002:4200::25:1090:0:99|2002:42::25:1090:0:99|0|The groups of zeros are compressed into a single double-colon.
+Which is the compressed format of the IPv6 address 2002:0420:00c4:1008:0025:0190:0000:0990?|2002:420:c4:1008:25:190::990|2002:4200::25:1090:0:99|2002:42:10:c400::909|2002:42::25:1090:0:99|0|Trailing zeros in a hextet remain; only leading zeros and zero-only hextets are compressed.
+Which is the compressed format of the IPv6 address 2001:0db8:0000:0000:0ab8:0001:0000:1000?|2001:db8::ab8:1:0:1000|2001:db8::a0b0:8:1|2001:db8:1::ab8:0:1|2001:db8:0:1::8:1|0|Compressed IPv6 addresses must be as short as possible.
+Which is the compressed format of the IPv6 address fe80:0000:0000:0000:0220:0b3f:f0e0:0029?|fe80::220:b3f:f0e0:29|fe80:9ea0::2020:0:bf:e0:9290|fe80:9ea:0:2200::fe0:290|fe80:9ea0::2020::bf:e0:9290|0|Three consecutive zero hextets are replaced by the double colon.
+Which is the compressed format of the IPv6 address fe80:9ea0:0000:2020:0000:00bf:00e0:9290?|fe80:9ea0::2020:0:bf:e0:9290|fe80:9:20::b000:290|fe80:9ea:0:2200::fe0:290|fe80::0220:0b3f:f0e0:0029|0|Double colons replace the zero hextet to achieve the shortest representation.
+What ACPI power state describes when the CPU and RAM are off and the contents of RAM are saved to disk?|S4|S1|S2|S3|0|S4 is the Hibernation state, where memory is written to a file.
+What ACPI power state describes when the CPU and RAM are still receiving power but unused devices are down?|S1|S2|S3|S4|0|S1 is a light sleep state that maintains power to core components.
+What ACPI power state describes when the CPU is off, but the RAM is refreshed?|S3|S1|S2|S4|0|S3 is Suspend-to-RAM, often simply called Standby or Sleep.
+What ACPI power state describes when the computer is off?|S5|S1|S2|S3|0|S5 is the soft-off state where the system is completely shut down.
+What ACPI power state describes when the CPU is off and RAM is set to a slow refresh rate?|S3|S4|S2|S5|0|S3 keeps data in RAM while the rest of the system powers down.
+What ACPI power state describes when the computer is on and the CPU is running?|S0|S4|S3|S5|0|S0 is the fully operational power state.
+A user reports that a drive is no longer there. What should the technician do to see if it's recognized?|Use Device Manager|Check Startup folder|Type ipconfig|Swap data cables|0|Device Manager shows all hardware currently recognized by the Windows OS.
+A technician is working on a laptop and an error message about decryption appears. Cause?|A digital certificate is missing|Display setting|GPU overheating|Wi-Fi is off|0|Decryption requires a specific digital certificate/key to unlock the data.
+Which Cloud computing service is best for collaboratively creating applications?|PaaS|IaaS|SaaS|ITaaS|0|Platform as a Service (PaaS) provides tools for developers to build apps.
+Which protocol is used by Windows for file and printer sharing?|SMB|SMTP|HTTPS|IMAP|0|Server Message Block (SMB) is the standard protocol for Windows resource sharing.
+IPv6 Host Identifier: 2001:0DB8:75a3:0214:0607:12
