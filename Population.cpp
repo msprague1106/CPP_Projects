@@ -27,7 +27,6 @@ int main()
         double rate;
         double population;
 
-
         // Getting starting population
         cout << "Enter the starting number of organisms: ";
         cin >> startPop;
