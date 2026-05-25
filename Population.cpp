@@ -88,6 +88,7 @@ int main()
 
         cout << "\nWould you like to try again(Y/N): ";
         cin >> again;
+        cout << endl;
      
     } while (again == 'Y' || again == 'y');
     
