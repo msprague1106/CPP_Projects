@@ -18,7 +18,6 @@ int main()
     int days;
     double totalDollars;
 
-
     do
     {
         long long dailyPay = 1;  // reset each run
