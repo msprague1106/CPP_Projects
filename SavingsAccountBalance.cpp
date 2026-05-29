@@ -45,9 +45,6 @@ int main()
         // Convert to deicimals montly rate
         monthlyRate = (annualRate / 100) / 12.0;
 
-         // Convert to decimal monthly rate
-        monthlyRate = (annualRate / 100.0) / 12.0;
-
         // Get starting balance
         cout << "Enter the starting balance: ";
         cin >> balance;
