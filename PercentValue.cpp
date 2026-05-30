@@ -44,21 +44,21 @@ int main()
             cin >> annualRate;
         }
         // Get number of years
-    cout << "Enter the number of years the money will sit in the account: ";
-    cin >> years;
-    while (cin.fail() || years < 1) 
-    {
-        cin.clear();
-        cin.ignore(1000, '\n');
-        cout << "Error: Years must be at least 1. Try again: ";
+        cout << "Enter the number of years the money will sit in the account: ";
         cin >> years;
-    }
+        while (cin.fail() || years < 1) 
+        {
+            cin.clear();
+            cin.ignore(1000, '\n');
+            cout << "Error: Years must be at least 1. Try again: ";
+            cin >> years;
+        }
 
-    // Calculate the present value
-    deposit = presentValue(futureValue, annualRate, years);
+        // Calculate the present value
+        deposit = presentValue(futureValue, annualRate, years);
 
-    cout << fixed << setprecision(2);
-    cout << "\nYou need to deposit $" << deposit << endl;
+        cout << fixed << setprecision(2);
+        cout << "\nYou need to deposit $" << deposit << endl;
 
         cout << "\nWould you like to enter again(Y/N): ";
         cin >> again;
