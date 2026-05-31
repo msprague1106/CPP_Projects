@@ -16,7 +16,7 @@ int main()
 
         // Input hours worked
         cout << "Enter the hours worked by ";
-        cout << NUM_EMPLOYEES << " employee who all\n";
+        cout << NUM_EMPLOYEES << " employees who all\n";
         cout << "earn the same hourly rate.\n" << endl;
 
         for (int index = 0; index < NUM_EMPLOYEES; index++)
