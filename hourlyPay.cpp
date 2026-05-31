@@ -31,6 +31,7 @@ int main()
 
         // Display each employee's gross pay. 
         cout << "\nHere is the gross pay for each employee:\n" << endl;
+        
         cout << fixed << setprecision(2);
 
         for (int index = 0; index < NUM_EMPLOYEES; index++)
