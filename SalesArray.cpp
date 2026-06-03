@@ -17,7 +17,7 @@ int main()
 
         cout << "This program will calculate the total sales of\n";
         cout << "all the company's divisions.\n";
-        cout << "\nEnter the following slaes information:\n\n";
+        cout << "\nEnter the following sales information:\n\n";
 
         // Nested loops to fill the array with quaterly 
         // sales figures for each division.
