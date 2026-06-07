@@ -9,8 +9,9 @@ int main()
 {
     const int NUM_EMPLOYEES = 5;             // Number of employees
     vector<int> hours(NUM_EMPLOYEES);        // A vectoro of integers
-    vector<double> payRate(NUM_EMPLOYEES);  //A vector of doubles
+    vector<double> payRate(NUM_EMPLOYEES);  // A vector of doubles
     int index;                              // Loop counter
+    double grossPay;                       
 
     // Input the data.
     cout << "Enter the hours worked by " << NUM_EMPLOYEES;
@@ -31,7 +32,7 @@ int main()
     cout << fixed << showpoint << setprecision(2);
     for (index = 0; index < NUM_EMPLOYEES; index++)
     {
-        double grossPay = hours[index] * payRate[index];
+        grossPay = hours[index] * payRate[index];
         cout << "Employee #" << (index +1);
         cout << ": $" << grossPay << endl;
     }
