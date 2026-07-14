@@ -38,7 +38,7 @@ void getSales(double *arr, int size)
     {
         cout << "Enter the sales figures for queater ";
         cout << (count + 1) << ": ";
-        cin >> arr[count];
+        cin >> arr[count];  
     }
 }
 
