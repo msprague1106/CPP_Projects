@@ -30,7 +30,7 @@ int main()
     {
         cin.clear();
         cin.ignore(1000, '\n');
-        cout << "Invaild. Please enter a postive number: ";
+        cout << "\nInvaild. Please enter a postive number: ";
         cin >> size;  
     }
     
@@ -41,7 +41,7 @@ int main()
     cout << "\nEnter " << size << " test scores:\n\n";
     for (int i = 0; i < size; i++)
     {
-        cout << "Scores " << i + 1 << ": ";
+        cout << "Score " << i + 1 << ": ";
         cin >> *(scores + i);
         
         while (cin.fail() || *(scores + i) < 0)
@@ -49,7 +49,7 @@ int main()
             cin.clear();
             cin.ignore(1000, '\n');
 
-            cout << "Invalid. Enter a postive score: ";
+            cout << "\nInvalid. Enter a postive score: ";
             cin >> *(scores + i);
         }
     }
