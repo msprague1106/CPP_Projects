@@ -13,9 +13,9 @@ using namespace std;
 
 main()
 {
-    const double classA = 15;
-    const double classB = 12;
-    const double classC = 9;
+    const double classA = 15.0;
+    const double classB = 12.0;
+    const double classC = 9.0;
 
     int ticketsA, ticketsB, ticketsC;
     double totalSales;
