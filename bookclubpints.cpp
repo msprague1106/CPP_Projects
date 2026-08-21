@@ -1,4 +1,4 @@
-/********************************************************************************************************
+/*******************************************************************************************************
 Book Club Points  Serendipity Booksellers has a book club that awards points to its customers based on 
 the number of books purchased each month. The points are awarded as follows:  
      If a customer purchases 0 books, he or she earns 0 points.
@@ -8,7 +8,7 @@ the number of books purchased each month. The points are awarded as follows:
     • If a customer purchases 4 or more books, he or she earns 60 points.  
 Write a program that asks the user to enter the number of books he or she has purchased this month 
 then displays the number of points awarded.
-********************************************************************************************************/
+******************************************************************************************************/
 
 #include<iostream>
 using namespace std;
