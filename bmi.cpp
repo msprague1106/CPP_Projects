@@ -7,20 +7,26 @@ int main()
 {
     double weight, height, bmi;
 
-    while (true) 
-    {
+    
+    
         cout << "Enter weight in pounds: ";
         cin >> weight;
 
         cout << "Enter height in inches: ";
         cin >> height;
 
-        if (weight > 0 && height > 0)
-            break;
+        while (weight <= 0 || height <= 0)
+        {
+            cout << "\nError: Both values must be positive. Try again.\n\n";
 
-        cout << "\nError: Both values must be positive. Try again.\n\n";
-    }
+            cout << "Enter weight in pounds: ";
+            cin >> weight;
 
+            cout << "Enter height in inches: ";
+            cin >> height;
+
+        }
+    
     bmi = weight * 703 / (height * height);
 
     cout << fixed << setprecision(2);
