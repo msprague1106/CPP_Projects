@@ -7,8 +7,6 @@ int main()
 {
     double weight, height, bmi;
 
-    
-    
         cout << "Enter weight in pounds: ";
         cin >> weight;
 
